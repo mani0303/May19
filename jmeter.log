@@ -1,0 +1,32 @@
+2016/09/15 12:35:33 INFO  - jmeter.util.JMeterUtils: Setting Locale to en_GB 
+2016/09/15 12:35:33 INFO  - jmeter.engine.StandardJMeterEngine: Listeners will be started after enabling running version 
+2016/09/15 12:35:33 INFO  - jmeter.engine.StandardJMeterEngine: To revert to the earlier behaviour, define jmeterengine.startlistenerslater=false 
+2016/09/15 12:35:34 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Cannot find .className property for htmlParser, using default 
+2016/09/15 12:35:34 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for text/html is  
+2016/09/15 12:35:34 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for application/xhtml+xml is  
+2016/09/15 12:35:34 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for application/xml is  
+2016/09/15 12:35:34 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for text/xml is  
+2016/09/15 12:35:34 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser 
+2016/09/15 12:35:34 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Maximum connection retries = 10 
+2016/09/15 12:35:34 INFO  - jmeter.engine.StandardJMeterEngine: Running the test! 
+2016/09/15 12:35:34 INFO  - jmeter.samplers.SampleEvent: List of sample_variables: [] 
+2016/09/15 12:35:34 INFO  - jmeter.samplers.SampleEvent: List of sample_variables: [] 
+2016/09/15 12:35:34 INFO  - jmeter.engine.util.CompoundVariable: Note: Function class names must contain the string: '.functions.' 
+2016/09/15 12:35:34 INFO  - jmeter.engine.util.CompoundVariable: Note: Function class names must not contain the string: '.gui.' 
+2016/09/15 12:35:34 WARN  - jmeter.engine.util.CompoundVariable: Did not find any functions 
+2016/09/15 12:35:34 INFO  - jmeter.engine.StandardJMeterEngine: Starting setUp thread groups 
+2016/09/15 12:35:34 INFO  - jmeter.engine.StandardJMeterEngine: Starting setUp ThreadGroup: 1 :  
+2016/09/15 12:35:34 INFO  - jmeter.engine.StandardJMeterEngine: Starting 1 threads for group . 
+2016/09/15 12:35:34 INFO  - jmeter.engine.StandardJMeterEngine: Thread will continue on error 
+2016/09/15 12:35:34 INFO  - jmeter.threads.ThreadGroup: Starting thread group number 1 threads 1 ramp-up 1 perThread 1000.0 delayedStart=false 
+2016/09/15 12:35:34 INFO  - jmeter.threads.JMeterThread: jmeterthread.startearlier=true (see jmeter.properties) 
+2016/09/15 12:35:34 INFO  - jmeter.threads.JMeterThread: Running PostProcessors in forward order 
+2016/09/15 12:35:34 INFO  - jmeter.threads.ThreadGroup: Started thread group number 1 
+2016/09/15 12:35:34 INFO  - jmeter.engine.StandardJMeterEngine: Waiting for all setup thread groups to exit 
+2016/09/15 12:35:34 INFO  - jmeter.threads.JMeterThread: Thread started:  1-1 
+2016/09/15 12:35:34 INFO  - jmeter.threads.JMeterThread: Thread is done:  1-1 
+2016/09/15 12:35:34 INFO  - jmeter.threads.JMeterThread: Thread finished:  1-1 
+2016/09/15 12:35:34 INFO  - jmeter.engine.StandardJMeterEngine: All Setup Threads have ended 
+2016/09/15 12:35:34 INFO  - jmeter.engine.StandardJMeterEngine: No enabled thread groups found 
+2016/09/15 12:35:34 INFO  - jmeter.engine.StandardJMeterEngine: Notifying test listeners of end of test 
+2016/09/15 12:35:34 INFO  - jmeter.services.FileServer: Default base='C:\Programs\selenium\Pilot\Pilot' 

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/schangala/workspace/smoke-test-master/libs/activation-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/schangala/workspace/smoke-test-master/libs/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/schangala/workspace/smoke-test-master/libs/commons-lang3-3.3.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/schangala/workspace/smoke-test-master/libs/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/schangala/workspace/smoke-test-master/libs/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/schangala/workspace/smoke-test-master/libs/freemarker-2.3.23.jar"/>
+	<classpathentry kind="lib" path="C:/Users/schangala/workspace/smoke-test-master/libs/groovy-2.4.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/schangala/workspace/smoke-test-master/libs/groovy-json-2.4.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/schangala/workspace/smoke-test-master/libs/groovy-xml-2.4.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/schangala/workspace/smoke-test-master/libs/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/schangala/workspace/smoke-test-master/libs/hamcrest-library-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/schangala/workspace/smoke-test-master/libs/htmlunit-driver-2.25-with-dependencies.jar"/>
+	<classpathentry kind="lib" path="C:/Users/schangala/workspace/smoke-test-master/libs/httpclient-4.5.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/schangala/workspace/smoke-test-master/libs/httpcore-4.4.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/schangala/workspace/smoke-test-master/libs/httpmime-4.5.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/schangala/workspace/smoke-test-master/libs/jcommander-1.48.jar"/>
+	<classpathentry kind="lib" path="C:/Users/schangala/workspace/smoke-test-master/libs/json-path-2.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/schangala/workspace/smoke-test-master/libs/mail-1.4.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/schangala/workspace/smoke-test-master/libs/poi-3.14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/schangala/workspace/smoke-test-master/libs/poi-ooxml-3.14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/schangala/workspace/smoke-test-master/libs/poi-ooxml-schemas-3.14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/schangala/workspace/smoke-test-master/libs/rest-assured-2.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/schangala/workspace/smoke-test-master/libs/rest-assured-common-2.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/schangala/workspace/smoke-test-master/libs/selenium-server-standalone-2.53.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/schangala/workspace/smoke-test-master/libs/stax-api-1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/schangala/workspace/smoke-test-master/libs/tagsoup-1.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/schangala/workspace/smoke-test-master/libs/testng-6.9.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/schangala/workspace/smoke-test-master/libs/xml-apis-2.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/schangala/workspace/smoke-test-master/libs/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/schangala/workspace/smoke-test-master/libs/xml-path-2.8.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
